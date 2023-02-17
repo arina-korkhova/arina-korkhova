@@ -4,7 +4,7 @@ I’m Arina Korkhova, an ambitious data enthusiast from Odesa, Ukraine. I greatl
 
 - 🔭 I’m currently working on Data Analytics, Python, Advanced SQL & Econometrics
 - 🌱 Delving into Data Science & Machine Learning
-- 💬 Ask me about Python, SQL, Data Visualization, Statistics, Data Analytics 
+- 💬 Ask me about Python, Excel, SQL, Data Visualization, Statistics, Data Analytics 
 - 📫 How to reach me: askorkhova@gmail.com 
 
 ### Skills
