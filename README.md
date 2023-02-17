@@ -13,6 +13,7 @@ I’m Arina Korkhova, an ambitious data enthusiast from Odesa, Ukraine. I greatl
 [<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>](https://pandas.pydata.org/)
 [<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/arina-korkhova/arina-korkhova/blob/main/images/matplotlib-icon.svg"/>](https://matplotlib.org/)
 [<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://github.com/arina-korkhova/arina-korkhova/blob/main/images/seaborn-icon.svg"/>](https://seaborn.pydata.org/)
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://github.com/arina-korkhova/arina-korkhova/blob/main/images/excel.png"/>
 [<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/)
 [<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>](https://www.postgresql.org/)
 [<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>](https://scikit-learn.org/stable/)
