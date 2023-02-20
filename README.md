@@ -17,5 +17,7 @@ I’m Arina Korkhova, an ambitious data enthusiast from Odesa, Ukraine. I greatl
 [<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/)
 [<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>](https://www.postgresql.org/)
 [<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>](https://scikit-learn.org/stable/)
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/arina-korkhova/arina-korkhova/blob/main/images/html.png"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/arina-korkhova/arina-korkhova/blob/main/images/css.png"/>
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>](https://www.java.com/en/)
 <img align="left" alt="Cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
