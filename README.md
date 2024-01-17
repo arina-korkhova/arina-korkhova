@@ -1,6 +1,6 @@
 ![Arina Korkhova](https://github.com/arina-korkhova/arina-korkhova/blob/main/images/Github%20Profile%20README.png)
 
-I’m Arina Korkhova, an ambitious data enthusiast from Odesa, Ukraine. I greatly enjoy learning new languages and technologies. I am assured that usage of data at the core of decision-making is the key to success. 
+I’m Arina Korkhova, an ambitious data enthusiast. I greatly enjoy learning new languages and technologies. I am assured that usage of data at the core of decision-making is the key to success. 
 
 - 🔭 I’m currently working on Data Analytics, Python, Advanced SQL & Econometrics
 - 🌱 Delving into Data Science & Machine Learning
